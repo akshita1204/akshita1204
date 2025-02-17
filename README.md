@@ -5,7 +5,7 @@
 
 -  👨‍💻 All of my projects are available at [to be release](to be release)
 
-- 💬 Ask me about *Flutter, App Dev
+- 💬 Ask me about *Flutter, App Dev*
 
 - 📫 How to reach me *akshitatyagi04@gmail.com*
   
