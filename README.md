@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hey There, I'm Akshita 👋
 
+I am a junior (3rd Year) learning to grow every day!
 <!--
 **akshita1204/akshita1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
