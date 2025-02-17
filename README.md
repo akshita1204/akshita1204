@@ -17,6 +17,7 @@
 <a href="https://instagram.com/akshitatyagi04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anisha.r_21" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/Akahita_Tyagi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshita" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/askhitaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="akshita" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/akshitatyagi04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="akshita" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/akshitatablh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="akshita" height="30" width="40" /></a>
 </p>
 <!--
