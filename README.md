@@ -8,6 +8,8 @@
 - 💬 Ask me about *Flutter, App Dev
 
 - 📫 How to reach me *akshitatyagi04@gmail.com*
+  
+- ⚡ Fun fact *Why do programmers prefer dark mode? Because light attracts bugs!*
 <!--
 **akshita1204/akshita1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
