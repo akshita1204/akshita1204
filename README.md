@@ -2,8 +2,11 @@
 
 ### I am a junior (3rd Year) learning to grow every day!
 - 🌱 I’m currently learning *MERN*
+
 -  👨‍💻 All of my projects are available at [to be release](to be release)
+
 - 💬 Ask me about *Flutter, App Dev
+
 - 📫 How to reach me *akshitatyagi04@gmail.com*
 <!--
 **akshita1204/akshita1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
