@@ -1,3 +1,12 @@
+<div align="center">
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
+  <br />
+  <img height="50" alt="My Name is Akshita Tyagi and I like Node.js" src="images/personal_note.svg" />
+  <br />
+  <br />
+
+</div>
 # Hey There, I'm Akshita 👋
 
 ### I am a junior (3rd Year) learning to grow every day!
