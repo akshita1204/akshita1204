@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 <a href="https://www.codechef.com/users/akshitatyagi04" target="blank"><img align="center" src="https://www.codechef.com/favicon.ico" alt="akshita" height="30" width="30" /></a>
 <!-- <a href="" target="blank"><img align="center" src="https://github.com/cschindlbeck/compcodicons" alt="akshita" height="30" width="40" /></a> -->
 
-</p> -->
+</p>
 
 - 🔭 I’m currently working on ...
 
