@@ -22,7 +22,7 @@
 <a href="https://instagram.com/akshitatyagi04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anisha.r_21" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Coding Profiles:</h3>
+<!-- <h3 align="left">Coding Profiles:</h3>
 <p align="left">
   <a href="https://leetcode.com/u/Akahita_Tyagi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshita" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/akshitaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="akshita" height="30" width="40" /></a>
@@ -30,7 +30,7 @@
 <a href="https://www.codechef.com/users/akshitatyagi04" target="blank"><img align="center" src="https://www.codechef.com/favicon.ico" alt="akshita" height="30" width="30" /></a>
 <!-- <a href="" target="blank"><img align="center" src="https://github.com/cschindlbeck/compcodicons" alt="akshita" height="30" width="40" /></a> -->
 
-</p>
+</p> -->
 
 <h3>Languages and Tools:</h3>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
